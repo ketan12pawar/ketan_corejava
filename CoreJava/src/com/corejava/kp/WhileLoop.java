@@ -7,6 +7,7 @@ package com.corejava.kp;
                  while( x < 20){
                    System.out.println("value of x : " + x );
                    x++;
+                   
                    System.out.println("\n");
                 	 
                  } 

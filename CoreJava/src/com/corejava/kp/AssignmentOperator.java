@@ -18,7 +18,7 @@ public class AssignmentOperator {
 		c /= a;	
 		System.out.println("c /= a = " + c);		
 		a = 10;
-		b = 15;
+		c = 15;
 		c %= a ;
 		System.out.println("c %= a = " + c);
 		c <<= 2;
