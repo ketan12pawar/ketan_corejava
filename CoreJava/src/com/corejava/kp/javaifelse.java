@@ -9,7 +9,7 @@ public class javaifelse {
 		sc = new Scanner(System.in);
 		int n=sc.nextInt();
 		if (n % 2 == 1){
-			System.out.println("Weird");
+		System.out.println("Weird");
 			
 		}
 		else
