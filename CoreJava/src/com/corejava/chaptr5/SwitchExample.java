@@ -2,10 +2,14 @@ package com.corejava.chaptr5;
 
 public class SwitchExample {
 	public static void main(String[] args){
+		// declaring Variable
 		int month =7;
 		String monthString="";
+		// Switch Expression
 		switch(month) {
+		// Case Statement
 		case 1: monthString="1 - January";
+		// Break Statement is used to terminate a statement sequence.
 		break;
 		case 2: monthString="2 - Febuary";
 		break;
@@ -29,6 +33,7 @@ public class SwitchExample {
 		break;
 		case 12: monthString="12 - December";
 		break;
+		// Default Statement is used to perform a task when none of the cases is true.
 		default:System.out.println("Invalid Month");
 		
 		}
