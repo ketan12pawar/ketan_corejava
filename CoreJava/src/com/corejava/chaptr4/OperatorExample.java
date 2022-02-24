@@ -7,7 +7,7 @@ public class OperatorExample {
 		// arithmetic
 	System.out.println(b);
 	// Relational opperator
-		System.out.println(50 < 4);
+		System.out.println(50 < 40);
 		// logical operator
 		System.out.println(50 > 40 && 40 > 50);
 		System.out.println(50 > 40 || 40 > 50);
