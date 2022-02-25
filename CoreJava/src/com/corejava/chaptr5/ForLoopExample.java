@@ -9,3 +9,7 @@ public class ForLoopExample {
 	}
 
 }
+// syntax
+// for (initialization, condition, increment){
+
+ //}

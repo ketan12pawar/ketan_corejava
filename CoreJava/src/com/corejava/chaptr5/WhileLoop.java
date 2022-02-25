@@ -12,3 +12,7 @@ public class WhileLoop {
 		}
 	}	
 }
+// syntax
+// while(condition){
+
+ //}
