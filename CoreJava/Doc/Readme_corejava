@@ -1,0 +1,27 @@
+*** Chapter 4
+
+1) Arithmetic Operator : Arithmetic operators are used to perform common mathematical operations.
+    Ex : + , -  , * , /.
+    
+2) Assignment Operator : Assignment operators are used to assign values to variables.
+    Ex : int x = 10 ( = is assignment operator)'
+    
+3) Relational Operator : Relational operators are used to check the relationship between two operands.
+    Ex : (> , < , <= , >= ,==).
+
+4) Logical operator : Logical operators are used to determine the logic between variables or values
+    Ex : AND , OR , NOT
+
+
+
+
+
+*** Chapter 5 
+
+1) labeled and unlabled statement.
+
+	> break : is used to come out of the loop under certain condition. loop can be while loop or for loop etc.
+	> continue : is opposite of break, this is used to skip the logic and start for the next sequence in under certain condition.
+	
+2) Exception : 	it is used to handle runtime error.we can use try, catch and throw for exception handling.
+	
