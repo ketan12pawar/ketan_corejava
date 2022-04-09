@@ -20,7 +20,7 @@ public class Maths{
 		//object creation not needed.
 		int p = Maths.multiplicationOfNumber(50,30);
 		
-		System.out.println("*******Sum of number*******" + p);
+		System.out.println("*******multiplication of number*******" + p);
 	}
 	
 	

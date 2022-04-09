@@ -24,7 +24,7 @@
 	> continue : is opposite of break, this is used to skip the logic and start for the next sequence in under certain condition.
 	
 2) Exception : 	it is used to handle runtime error.we can use try, catch and throw for exception handling.
-	 > try : The "try" keyword is used to specify a block where we should place an exception code.
-	 > catch : The "catch" block is used to handle the exception.
+	 > try : The try statement allows you to define a block of code to be tested for errors while it is being executed.
+	 > catch : The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
 	 > finally : The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
 	 > throw : The "throw" keyword is used to throw an exception 

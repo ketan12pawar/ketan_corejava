@@ -5,8 +5,8 @@ public class OperatorExample {
 		int a = 50;
 		int b = 40+ a ;
 		// arithmetic
-	System.out.println(b);
-	// Relational opperator
+		System.out.println(b);
+		// Relational opperator
 		System.out.println(50 < 40);
 		// logical operator
 		System.out.println(50 > 40 && 40 > 50);
