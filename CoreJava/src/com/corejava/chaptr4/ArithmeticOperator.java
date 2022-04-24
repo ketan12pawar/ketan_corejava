@@ -1,6 +1,7 @@
 package com.corejava.chaptr4;
 
 public class ArithmeticOperator {
+	
 	public static void main(String[] args) {
 
 		// declare variables
