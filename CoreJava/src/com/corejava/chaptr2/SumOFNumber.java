@@ -2,10 +2,13 @@ package com.corejava.chaptr2;
 
 import java.util.Scanner;
 
-public class SumOFNumber {
+public class SumOfNumber {
+	
 	public static void main(String args[]){
+		
 		int x, y, sum;
-		Scanner sc = new Scanner(System.in); // creating an scanner object
+		
+		Scanner sc = new Scanner(System.in); // creating an scanner object.to get input from user at runtime.
 
 		System.out.println("Enter the first number:");
 		x = sc.nextInt();
@@ -14,10 +17,7 @@ public class SumOFNumber {
 		y = sc.nextInt();
 
 		sum = sum(x,y);
-
 		System.out.println("The sum of two numbers x nad y is:" + sum );
-
-
 	}
 	// method that calculate sum
 
