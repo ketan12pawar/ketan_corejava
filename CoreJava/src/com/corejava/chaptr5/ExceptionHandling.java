@@ -6,13 +6,13 @@ public class ExceptionHandling {
 		int y = 0;
 		try {
 
-			// example of Artimetic Exception
+			// example of Arithmetic Exception
 			int num = x/y;
 			System.out.println("next statement: inside try block");
 
 		}catch (Exception e){
 			System.out.println("Exception");
-			e.printStackTrace();
+			
 		}
 		finally {
 			System.out.println("next statement: outside try block");

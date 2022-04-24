@@ -2,7 +2,7 @@ package com.corejava.chaptr5;
 
 public class DoWhileLoop {
 	public static void main(String[] args){
-		int i=1;
+		int i = 1;
 
 		// creating loop to print the va1ue of i 10 times
 		do {
