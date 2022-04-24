@@ -6,7 +6,7 @@
 2) Assignment Operator : Assignment operators are used to assign values to variables.
     ex : int x = 10 ( = is assignment operator)'
     
-3) Relational Operator : Relational operators are used to check the relationship between two operands.
+3) Relational Operator : Relational operators are used to  compare the values between two operands.
     ex : (> , < , <= , >= ,==).
 
 4) Logical operator : Logical operators are used to determine the logic between variables or values
@@ -18,6 +18,9 @@
 
 *** Chapter 5 
 
+1) What is loop : in programming language we use loop to run the block of code several times based on the condition
+  				  in java we have while,do while and for loop.
+
 1) labeled and unlabled statement.
 
 	> break : is used to come out of the loop under certain condition. loop can be while loop or for loop etc.
@@ -28,3 +31,13 @@
 	 > catch : The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
 	 > finally : The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
 	 > throw : The "throw" keyword is used to throw an exception 
+
+*** Collection 
+
+> In Java we use collection to store/read/update/delete object of similar type. There many collection in java refer the chart for that.
+  Most popular collection we used are Array, List and Map	
+  
+  > there 2 type of "equal"  &7 "=="
+  
+  		- equal : this compare the value of content
+  		- == : this compare the address of the object.
