@@ -7,15 +7,15 @@ public class Employee {
 	private String department;
 	private String city;
 	private char sex;
-	
+
 	Employee(int id, String name, String department, String city, char sex){
 		this.id = id;
 		this.name = name;
 		this.department = department;
 		this.city = city;
 		this.sex = sex;
-		
-		
+
+
 	}
 
 	public char getSex() {

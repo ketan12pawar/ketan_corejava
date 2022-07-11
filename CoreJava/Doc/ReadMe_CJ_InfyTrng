@@ -1,0 +1,59 @@
+1) Why Programming 
+
+		Everyone uses computers, mobile phones and many other gadgets in day to day life to access various 
+		applications. Different business domains like Education, Banking, E-Commerce, Healthcare, Insurance etc. 
+		use computer applications. These applications are built using programming. 
+		The knowledge of programming is essential to bring innovation. 
+		You need to know how to code to create value with your ideas.
+		
+2)  Why do have so many programming language ?
+    ANS We have so many programming languages because each programming language has 
+        certain features and characteristics that make it suitable for specific tasks.
+   
+ > Keywords : Every programming language has a set of keywords which are reserved words having a predefined meaning.
+     For Example. do,while,if,extend,abstract,static.
+     
+ > Variables : A variable is a named memory location which holds some value. The value stored in a variable can vary during the execution of the program.
+ 
+ > Identifiers :  In Java, an identifier is the name given to a variable, method or class to uniquely identify it. 
+          
+               Rules for identifiers   
+      
+ > It can contain alphanumeric characters([a-z], [A-Z], [0-9]), dollar sign ($), underscore (_).
+ > It should not start with a digit ([0-9]). 
+ > It should not have spaces. 
+ > It should not be a Java keyword. 
+ > It is case-sensitive. 
+ > It has no length restrictions.
+ 
+ ***** Operators 
+
+ > Operators : Operators are the symbols used to perform specific operations. There are various operators that can be used for different purposes
+     For Example : Arithmetic operation, Relational operation, Assignment operator, Logical operator.
+     
+ > Unary operator : Java unary operators are the types that need only one operand to perform any operation.
+              like increment, decrement, negation, etc.
+              
+ > Arithmetic operator : Arithmetic operators are used to perform basic mathematical operations.
+              like addition, subtraction, multiplication and division.
+              
+ > Relational operator : Relational operators are used to compare two values. The result of all the relational operations is either true or false          
+   
+ ***** Selection Control Statement
+ 
+ > If : In Java, the "if" statement is used to evaluate a condition. 
+        The control of the program is diverted depending upon the specific condition.
+        
+ > If - else : The if-else statement is an extension to the if-statement, which uses another block of code, i.e., else block. 
+               The else block is executed if the condition of the if-block is evaluated as false. 
+               
+ > If-else-If : The if-else-if statement contains the if-statement followed by multiple else-if statements.
+ 
+ ***** Iterator Control Statement
+ 
+ > For loop : Java for loop is used to run a block of code for a certain number of times. 
+ > While loop : Java while loop is used to run a specific code until a certain condition is met.
+ > Do while loop : The Java do-while loop is used to iterate a part of the program repeatedly, until the specified condition is true.
+ 
+ 
+		
