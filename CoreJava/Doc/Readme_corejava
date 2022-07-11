@@ -13,9 +13,6 @@
     ex : AND , OR , NOT
 
 
-
-
-
 *** Chapter 5 
 
 1) What is loop : in programming language we use loop to run the block of code several times based on the condition
@@ -41,3 +38,115 @@
   
   		- equal : this compare the value of content
   		- == : this compare the address of the object.
+
+ ***** TRAINING *****
+ 
+  **** Keywords, Variables, Identifiers and Data Types
+  
+ > Keywords : Every programming language has a set of keywords which are reserved words having a predefined meaning.
+     For Example. do,while,if,extend,abstract,static.
+     
+ > Variables : A variable is a named memory location which holds some value. The value stored in a variable can vary during the execution of the program.
+ 
+ > Identifiers :  In Java, an identifier is the name given to a variable, method or class to uniquely identify it. 
+          
+               Rules for identifiers   
+      
+ > It can contain alphanumeric characters([a-z], [A-Z], [0-9]), dollar sign ($), underscore (_).
+ > It should not start with a digit ([0-9]). 
+ > It should not have spaces. 
+ > It should not be a Java keyword. 
+ > It is case-sensitive. 
+ > It has no length restrictions.              
+                
+***** Operators 
+
+ > Operators : Operators are the symbols used to perform specific operations. There are various operators that can be used for different purposes
+     For Example : Arithmetic operation, Relational operation, Assignment operator, Logical operator.
+     
+ > Unary operator : Java unary operators are the types that need only one operand to perform any operation.
+              like increment, decrement, negation, etc.
+              
+ > Arithmetic operator : Arithmetic operators are used to perform basic mathematical operations.
+              like addition, subtraction, multiplication and division.
+              
+ > Relational operator : Relational operators are used to compare two values. The result of all the relational operations is either true or false          
+  
+
+
+
+
+																																																																																																																																																																																																																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																																																																																																																																																																																																																																														
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
