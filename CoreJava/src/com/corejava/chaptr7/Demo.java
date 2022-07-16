@@ -52,7 +52,7 @@ public class Demo {
 
 
 		// Map is used when we have data with and key and value pair and it will always have unique key
-		// 101 ketan  10 = Khushi
+		// 101 ketan  10 = khushi
 		// <key Value>
 		Map<String,String> studentmap = new HashMap<String, String>();
 		studentmap.put("101", "Ketan Pawar");
